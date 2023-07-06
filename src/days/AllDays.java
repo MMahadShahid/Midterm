@@ -9,5 +9,6 @@ package days;
  * @author mahad
  */
 public enum AllDays {
-    
+    MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY;
 }
+
