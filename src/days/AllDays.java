@@ -11,4 +11,3 @@ package days;
 public enum AllDays {
     MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY;
 }
-
